@@ -3,16 +3,16 @@
 ## Action
 
 ### URL
-PopupWebFrameBehaviour_827F7192_9525_933B_41D0_62682B53D6B7.url = https://blackpistol.setmore.com/
 PopupWebFrameBehaviour_83727E02_9565_911B_41DD_3D5AB1F12121.url = https://blackpistol.setmore.com/
-LinkBehaviour_87584B10_9563_F738_41D6_8DF69585665C.source = https://hermesview.com/
+PopupWebFrameBehaviour_827F7192_9525_933B_41D0_62682B53D6B7.url = https://blackpistol.setmore.com/
 LinkBehaviour_827BF190_9525_9337_41C4_65269BAA5B27.source = https://hermesview.com/
-LinkBehaviour_875F8B0F_9563_F728_41D9_6394B92FFCCC.source = https://www.facebook.com/Blackpistolbarbershop/?locale=el_GR
+LinkBehaviour_87584B10_9563_F738_41D6_8DF69585665C.source = https://hermesview.com/
 LinkBehaviour_8278418D_9525_9328_41A1_69987F1F9646.source = https://www.facebook.com/Blackpistolbarbershop/?locale=el_GR
-LinkBehaviour_8278918D_9525_9328_41DE_CA5CD05C1584.source = https://www.google.com/maps/place/Blackpistol+Barbershop/@37.9579717,23.7231442,17z/data=!3m1!4b1!4m6!3m5!1s0x14a1bd46f04b2e43:0xb257c6073028aa72!8m2!3d37.9579675!4d23.7257191!16s%2Fg%2F11fpq6rwzb?entry=ttu
+LinkBehaviour_875F8B0F_9563_F728_41D9_6394B92FFCCC.source = https://www.facebook.com/Blackpistolbarbershop/?locale=el_GR
 LinkBehaviour_87580B10_9563_F738_41C5_12A878583D01.source = https://www.google.com/maps/place/Blackpistol+Barbershop/@37.9579717,23.7231442,17z/data=!3m1!4b1!4m6!3m5!1s0x14a1bd46f04b2e43:0xb257c6073028aa72!8m2!3d37.9579675!4d23.7257191!16s%2Fg%2F11fpq6rwzb?entry=ttu
-LinkBehaviour_875FDB0F_9563_F727_41CA_BC9F367895E8.source = https://www.instagram.com/blackpistol.barbers/
+LinkBehaviour_8278918D_9525_9328_41DE_CA5CD05C1584.source = https://www.google.com/maps/place/Blackpistol+Barbershop/@37.9579717,23.7231442,17z/data=!3m1!4b1!4m6!3m5!1s0x14a1bd46f04b2e43:0xb257c6073028aa72!8m2!3d37.9579675!4d23.7257191!16s%2Fg%2F11fpq6rwzb?entry=ttu
 LinkBehaviour_8278018D_9525_9328_41DC_B21FA86C25E1.source = https://www.instagram.com/blackpistol.barbers/
+LinkBehaviour_875FDB0F_9563_F727_41CA_BC9F367895E8.source = https://www.instagram.com/blackpistol.barbers/
 
 ## Media
 
