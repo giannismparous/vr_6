@@ -1,0 +1,50 @@
+#: locale=en
+
+## Action
+
+### URL
+PopupWebFrameBehaviour_827F7192_9525_933B_41D0_62682B53D6B7.url = https://blackpistol.setmore.com/
+PopupWebFrameBehaviour_83727E02_9565_911B_41DD_3D5AB1F12121.url = https://blackpistol.setmore.com/
+LinkBehaviour_87584B10_9563_F738_41D6_8DF69585665C.source = https://hermesview.com/
+LinkBehaviour_827BF190_9525_9337_41C4_65269BAA5B27.source = https://hermesview.com/
+LinkBehaviour_875F8B0F_9563_F728_41D9_6394B92FFCCC.source = https://www.facebook.com/Blackpistolbarbershop/?locale=el_GR
+LinkBehaviour_8278418D_9525_9328_41A1_69987F1F9646.source = https://www.facebook.com/Blackpistolbarbershop/?locale=el_GR
+LinkBehaviour_8278918D_9525_9328_41DE_CA5CD05C1584.source = https://www.google.com/maps/place/Blackpistol+Barbershop/@37.9579717,23.7231442,17z/data=!3m1!4b1!4m6!3m5!1s0x14a1bd46f04b2e43:0xb257c6073028aa72!8m2!3d37.9579675!4d23.7257191!16s%2Fg%2F11fpq6rwzb?entry=ttu
+LinkBehaviour_87580B10_9563_F738_41C5_12A878583D01.source = https://www.google.com/maps/place/Blackpistol+Barbershop/@37.9579717,23.7231442,17z/data=!3m1!4b1!4m6!3m5!1s0x14a1bd46f04b2e43:0xb257c6073028aa72!8m2!3d37.9579675!4d23.7257191!16s%2Fg%2F11fpq6rwzb?entry=ttu
+LinkBehaviour_875FDB0F_9563_F727_41CA_BC9F367895E8.source = https://www.instagram.com/blackpistol.barbers/
+LinkBehaviour_8278018D_9525_9328_41DC_B21FA86C25E1.source = https://www.instagram.com/blackpistol.barbers/
+
+## Media
+
+### Audio
+audiores_83957D85_952C_7319_41B6_4EC3217A0E79.mp3Url = media/audio_8312E884_9523_B11F_41BD_6F1F57F6FB8B_en.mp3
+
+### Title
+panorama_98BF6692_9525_9138_41D7_1D615B0C6AEE.label = 1
+panorama_99FC9EEA_9525_AEE8_41B2_B722C5532E49.label = 2
+panorama_99FD5645_9525_B119_41DC_AFB00A5B2960.label = 3
+panorama_99FDED90_9525_B338_41DB_62AC82252025.label = 4
+panorama_99FDD54E_9525_9328_41B4_5793B73EF45B.label = 5
+panorama_99FC3CBD_9525_9169_41D8_59AB50336C4D.label = 6
+
+## Skin
+
+### Button
+Button_8152032C_957D_976F_41C3_A1347F8B6F5C.label = Κλείσε ραντεβού 
+Button_8152032C_957D_976F_41C3_A1347F8B6F5C_mobile.label = Κλείσε ραντεβού 
+
+### Image
+Image_875F5B0F_9563_F728_41CC_7BAC4A5A018B.url = skin/Image_875F5B0F_9563_F728_41CC_7BAC4A5A018B_en.png
+Image_875F5B0F_9563_F728_41CC_7BAC4A5A018B_mobile.url = skin/Image_875F5B0F_9563_F728_41CC_7BAC4A5A018B_mobile_en.png
+
+### Multiline Text
+HTMLText_87586B10_9563_F738_4174_A81AAF303110.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:16px;font-family:'Oswald Regular';"><B><I><U>Πληροφορίες Επικοινωνίας</U></I></B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:13.999999999999998px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald Regular';"><I>Τηλέφωνο: +30 2114005151</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:13.999999999999998px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald Regular';"><I>Email: leonfkn21@hotmail.com</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:13.999999999999998px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald Regular';"><I>Διεύθυνση: Κασομούλη 32, Αθήνα</I></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:14px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+HTMLText_87586B10_9563_F738_4174_A81AAF303110_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:8px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:8px;font-family:'Oswald Regular';"><B><I><U>Πληροφορίες Επικοινωνίας</U></I></B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:6.999999999999999px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:7px;font-family:'Oswald Regular';"><I>Τηλέφωνο: +30 2114005151</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:6.999999999999999px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:7px;font-family:'Oswald Regular';"><I>Email: leonfkn21@hotmail.com</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:6.999999999999999px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:7px;font-family:'Oswald Regular';"><I>Διεύθυνση: Κασομούλη 32, Αθήνα</I></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:7px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:6px;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+
+## Tour
+
+### Description
+tour.description = The best barbers in Neos Kosmos, Athens
+
+### Title
+tour.name = Black Pistol Barbershop
