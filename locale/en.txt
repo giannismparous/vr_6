@@ -3,37 +3,43 @@
 ## Action
 
 ### URL
-PopupWebFrameBehaviour_878736C6_AF57_E637_41E5_D57A59A23792.url = https://blackpistol.setmore.com/
+PopupWebFrameBehaviour_D5CA5AA0_C159_F44E_41E4_D091E4469E0A.url = https://blackpistol.setmore.com/
 PopupWebFrameBehaviour_8AB66610_AF54_E62A_41A1_C54879D56293.url = https://blackpistol.setmore.com/
 PopupWebFrameBehaviour_9A855F67_B0BC_66F6_41D5_3BA1AA2FEF67.url = https://blackpistol.setmore.com/bookappointment
 PopupWebFrameBehaviour_89E83427_AF7C_BA76_41C3_7FD258A23ACE.url = https://blackpistol.setmore.com/bookappointment
 PopupWebFrameBehaviour_8A4AC221_AF7C_DE6A_41D9_A5348516C2B8.url = https://blackpistol.setmore.com/bookappointment
 PopupWebFrameBehaviour_9B5B795C_B0BC_AADB_41B3_F547B1A8C1A0.url = https://blackpistol.setmore.com/bookappointment
-LinkBehaviour_8787A6C3_AF57_E62D_41A1_5E970692DBA7.source = https://hermesview.com/
+LinkBehaviour_D5CB4A99_C159_F47E_41E3_C05673D50908.source = https://hermesview.com/
 LinkBehaviour_87584B10_9563_F738_41D6_8DF69585665C.source = https://hermesview.com/
-LinkBehaviour_878316BC_AF57_E65B_41C5_9FA15D8AD7B3.source = https://www.facebook.com/Blackpistolbarbershop/?locale=el_GR
+LinkBehaviour_D535DA92_C159_F473_41D7_E2277249322C.source = https://www.facebook.com/Blackpistolbarbershop/?locale=el_GR
 LinkBehaviour_875F8B0F_9563_F728_41D9_6394B92FFCCC.source = https://www.facebook.com/Blackpistolbarbershop/?locale=el_GR
-LinkBehaviour_8785C6BE_AF57_E657_41B0_A1F3EE719B09.source = https://www.google.com/maps/place/Blackpistol+Barbershop/@37.9579717,23.7231442,17z/data=!3m1!4b1!4m6!3m5!1s0x14a1bd46f04b2e43:0xb257c6073028aa72!8m2!3d37.9579675!4d23.7257191!16s%2Fg%2F11fpq6rwzb?entry=ttu
+LinkBehaviour_D5344A96_C159_F473_41E0_D21C330BFBFE.source = https://www.google.com/maps/place/Blackpistol+Barbershop/@37.9579717,23.7231442,17z/data=!3m1!4b1!4m6!3m5!1s0x14a1bd46f04b2e43:0xb257c6073028aa72!8m2!3d37.9579675!4d23.7257191!16s%2Fg%2F11fpq6rwzb?entry=ttu
 LinkBehaviour_87580B10_9563_F738_41C5_12A878583D01.source = https://www.google.com/maps/place/Blackpistol+Barbershop/@37.9579717,23.7231442,17z/data=!3m1!4b1!4m6!3m5!1s0x14a1bd46f04b2e43:0xb257c6073028aa72!8m2!3d37.9579675!4d23.7257191!16s%2Fg%2F11fpq6rwzb?entry=ttu
-LinkBehaviour_878326BC_AF57_E65B_41B1_6B2B7FA0FAED.source = https://www.instagram.com/blackpistol.barbers/
+LinkBehaviour_D5351A94_C159_F477_41DA_77720F6D7528.source = https://www.instagram.com/blackpistol.barbers/
 LinkBehaviour_875FDB0F_9563_F727_41CA_BC9F367895E8.source = https://www.instagram.com/blackpistol.barbers/
 
 ## Media
 
 ### Audio
-audiores_83957D85_952C_7319_41B6_4EC3217A0E79.mp3Url = media/audio_8312E884_9523_B11F_41BD_6F1F57F6FB8B_en.mp3
+audiores_D33F9D76_C15A_ACB2_41E1_DBCD781E24E3.mp3Url = media/audio_CA90FF33_C147_ACB2_41D6_A89D6442FE43_en.mp3
 
 ### Title
 panorama_BDC72B50_AF4C_6E2A_41DE_88BB539329BD.label = 0
 panorama_A0CC0216_AF4C_BE56_41E2_83E6AA6EC872.label = 1
+panorama_CCF8304A_C14A_94D2_41DF_40538A086768.label = 1_old
 panorama_A05FE6C4_AF5C_662B_41D7_355475806673.label = 2
+panorama_CD156D90_C14A_EC4E_41E2_445F1C2C9609.label = 2_old
 panorama_A04F957A_AF5F_DADF_41CD_074AB40A9ECD.label = 3
+panorama_CD148992_C14A_F472_41DF_00FEE7B1CAE1.label = 3_old
 panorama_A0C779F3_AF54_EDED_41D3_82E59FCBB742.label = 4
+panorama_CD14A1DF_C14A_97F2_41CE_945A19C8D4ED.label = 4_old
 panorama_A3EDEFB0_AF4C_E66B_41BC_5956F4DC1E42.label = 5
+panorama_CD1409E2_C14A_97D2_41C1_29EB8E8CB795.label = 5_old
 panorama_BFC84699_AF4B_E65D_41DA_B2064EB76B81.label = 6
+panorama_CD14B260_C14A_B4CE_41E1_F48683BC6D44.label = 6_old
 album_87BA7B7F_AF7B_EED6_41D1_DBB5F5BCDA20.label = Photo Album photo_2024-05-24_10-09-06
-video_9C683F5D_AFB5_A6D5_41DA_58B8C621D6F1.label = lewn
 video_802928BF_AFD4_AA55_41DE_7F4040C56C7D.label = lewn
+video_9C683F5D_AFB5_A6D5_41DA_58B8C621D6F1.label = lewn
 video_888E5B2E_AF5C_AE77_41E4_5D52AA727653.label = lewn_with_sound
 video_8A430A25_AFD4_AE6A_41C6_1D048E336F1A.label = mike
 video_887F3BDC_AF5C_EDDB_41BC_6B40D630B705.label = mike_with_sound
@@ -48,27 +54,27 @@ album_87BA7B7F_AF7B_EED6_41D1_DBB5F5BCDA20_7.label = photo_2024-05-25_16-04-36
 album_87BA7B7F_AF7B_EED6_41D1_DBB5F5BCDA20_8.label = photo_2024-05-25_16-04-41
 
 ### Video
-videolevel_86177162_B1DC_7AEF_41DF_CDA0856C796C.url = media/video_802928BF_AFD4_AA55_41DE_7F4040C56C7D_en.mp4
-videolevel_86177162_B1DC_7AEF_41DF_CDA0856C796C.posterURL = media/video_802928BF_AFD4_AA55_41DE_7F4040C56C7D_poster_en.jpg
-videolevel_861151F8_B1DC_7DDB_41D2_C3E5663B3661.url = media/video_887F3BDC_AF5C_EDDB_41BC_6B40D630B705_en.mp4
-videolevel_861151F8_B1DC_7DDB_41D2_C3E5663B3661.posterURL = media/video_887F3BDC_AF5C_EDDB_41BC_6B40D630B705_poster_en.jpg
-videolevel_861281CB_B1DC_7A3D_41B5_ECAADF900C6C.url = media/video_888E5B2E_AF5C_AE77_41E4_5D52AA727653_en.mp4
-videolevel_861281CB_B1DC_7A3D_41B5_ECAADF900C6C.posterURL = media/video_888E5B2E_AF5C_AE77_41E4_5D52AA727653_poster_en.jpg
-videolevel_86E8D131_B1DC_7A6A_41DB_C6EEC338398C.url = media/video_8A430A25_AFD4_AE6A_41C6_1D048E336F1A_en.mp4
-videolevel_86E8D131_B1DC_7A6A_41DB_C6EEC338398C.posterURL = media/video_8A430A25_AFD4_AE6A_41C6_1D048E336F1A_poster_en.jpg
-videolevel_8614D190_B1DC_7A2B_41DB_38561407B590.url = media/video_9C683F5D_AFB5_A6D5_41DA_58B8C621D6F1_en.mp4
-videolevel_8614D190_B1DC_7A2B_41DB_38561407B590.posterURL = media/video_9C683F5D_AFB5_A6D5_41DA_58B8C621D6F1_poster_en.jpg
+videolevel_D5493A7A_C15E_F4B2_41D1_6741CF9EA16C.url = media/video_802928BF_AFD4_AA55_41DE_7F4040C56C7D_en.mp4
+videolevel_D5493A7A_C15E_F4B2_41D1_6741CF9EA16C.posterURL = media/video_802928BF_AFD4_AA55_41DE_7F4040C56C7D_poster_en.jpg
+videolevel_D5489AFC_C15E_F5B6_41E0_F80B065DF142.url = media/video_887F3BDC_AF5C_EDDB_41BC_6B40D630B705_en.mp4
+videolevel_D5489AFC_C15E_F5B6_41E0_F80B065DF142.posterURL = media/video_887F3BDC_AF5C_EDDB_41BC_6B40D630B705_poster_en.jpg
+videolevel_D5481AC6_C15E_F5D2_41D7_1918B260EAC7.url = media/video_888E5B2E_AF5C_AE77_41E4_5D52AA727653_en.mp4
+videolevel_D5481AC6_C15E_F5D2_41D7_1918B260EAC7.posterURL = media/video_888E5B2E_AF5C_AE77_41E4_5D52AA727653_poster_en.jpg
+videolevel_D54EAA53_C15E_F4F2_41D2_89F286155271.url = media/video_8A430A25_AFD4_AE6A_41C6_1D048E336F1A_en.mp4
+videolevel_D54EAA53_C15E_F4F2_41D2_89F286155271.posterURL = media/video_8A430A25_AFD4_AE6A_41C6_1D048E336F1A_poster_en.jpg
+videolevel_D549AA9E_C15E_F472_41D0_112C9896AE28.url = media/video_9C683F5D_AFB5_A6D5_41DA_58B8C621D6F1_en.mp4
+videolevel_D549AA9E_C15E_F472_41D0_112C9896AE28.posterURL = media/video_9C683F5D_AFB5_A6D5_41DA_58B8C621D6F1_poster_en.jpg
 
 ### Video Subtitles
 
 ## Popup
 
 ### Body
-htmlText_8784B6C5_AF57_E635_41C8_2C8BF0E6F55A.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:24px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:24px;font-family:'Arial Black', Gadget, sans-serif;">Black Pistol is a barbershop based close to the centre of Athens in a traditional neighbourhood friendly to everyone and so are we! Feel free to come by anytime to take care any of your needs! </SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:24px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:24px;font-family:'Arial Black', Gadget, sans-serif;">Crispy Clean Cuts All Day!</SPAN></SPAN></DIV></BODY></HTML></div>
+htmlText_D5CB4A9D_C159_F476_41DA_4D4506132416.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:24px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:24px;font-family:'Arial Black', Gadget, sans-serif;">Black Pistol is a barbershop based close to the centre of Athens in a traditional neighbourhood friendly to everyone and so are we! Feel free to come by anytime to take care any of your needs! </SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:24px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:24px;font-family:'Arial Black', Gadget, sans-serif;">Crispy Clean Cuts All Day!</SPAN></SPAN></DIV></BODY></HTML></div>
 htmlText_878637AF_AF4D_E676_41DE_66824D0A072B.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:24px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:24px;font-family:'Arial Black', Gadget, sans-serif;">Black Pistol is a barbershop based close to the centre of Athens in a traditional neighbourhood friendly to everyone and so are we! Feel free to come by anytime to take care any of your needs! </SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:24px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:24px;font-family:'Arial Black', Gadget, sans-serif;">Crispy Clean Cuts All Day!</SPAN></SPAN></DIV></BODY></HTML></div>
 
 ### Title
-window_8784F6C4_AF57_E62B_41E4_7541CF53E1BB.title = Who are we?
+window_D5CB1A9C_C159_F476_41DD_5FE6CDCD0B40.title = Who are we?
 window_878667AF_AF4D_E676_41C4_3B5A5CC37B1C.title = Who are we?
 
 ## Skin
@@ -76,6 +82,10 @@ window_878667AF_AF4D_E676_41C4_3B5A5CC37B1C.title = Who are we?
 ### Button
 Button_8AB3260F_AF54_E636_41E3_BCD7699DF8BD_mobile.label = Book an appointment
 Button_8AB3260F_AF54_E636_41E3_BCD7699DF8BD.label = Book an appointment
+Button_D3152D86_C14E_AC52_41D4_5B5A67D5F598.label = See it empty
+Button_D3152D86_C14E_AC52_41D4_5B5A67D5F598_mobile.label = See it empty
+Button_D1CDC0E6_C14B_95D2_41DA_15BE16DA89C3_mobile.label = See it full
+Button_D1CDC0E6_C14B_95D2_41DA_15BE16DA89C3.label = See it full
 Button_8152032C_957D_976F_41C3_A1347F8B6F5C.label = Who are we?
 Button_8152032C_957D_976F_41C3_A1347F8B6F5C_mobile.label = Who are we?
 
