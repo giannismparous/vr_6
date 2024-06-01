@@ -3,20 +3,20 @@
 ## Action
 
 ### URL
-PopupWebFrameBehaviour_D5CA5AA0_C159_F44E_41E4_D091E4469E0A.url = https://blackpistol.setmore.com/
 PopupWebFrameBehaviour_8AB66610_AF54_E62A_41A1_C54879D56293.url = https://blackpistol.setmore.com/
+PopupWebFrameBehaviour_D5CA5AA0_C159_F44E_41E4_D091E4469E0A.url = https://blackpistol.setmore.com/
 PopupWebFrameBehaviour_9A855F67_B0BC_66F6_41D5_3BA1AA2FEF67.url = https://blackpistol.setmore.com/bookappointment
 PopupWebFrameBehaviour_89E83427_AF7C_BA76_41C3_7FD258A23ACE.url = https://blackpistol.setmore.com/bookappointment
 PopupWebFrameBehaviour_8A4AC221_AF7C_DE6A_41D9_A5348516C2B8.url = https://blackpistol.setmore.com/bookappointment
 PopupWebFrameBehaviour_9B5B795C_B0BC_AADB_41B3_F547B1A8C1A0.url = https://blackpistol.setmore.com/bookappointment
-LinkBehaviour_D5CB4A99_C159_F47E_41E3_C05673D50908.source = https://hermesview.com/
 LinkBehaviour_87584B10_9563_F738_41D6_8DF69585665C.source = https://hermesview.com/
+LinkBehaviour_D5CB4A99_C159_F47E_41E3_C05673D50908.source = https://hermesview.com/
+LinkBehaviour_DA9BBDA3_D455_14FF_41DC_2F5319401151.source = https://www.facebook.com/Blackpistolbarbershop
 LinkBehaviour_D535DA92_C159_F473_41D7_E2277249322C.source = https://www.facebook.com/Blackpistolbarbershop/?locale=el_GR
-LinkBehaviour_875F8B0F_9563_F728_41D9_6394B92FFCCC.source = https://www.facebook.com/Blackpistolbarbershop/?locale=el_GR
+LinkBehaviour_DA6EC049_D457_2C4A_41D2_E9E67CA5E58E.source = https://www.google.com/maps/place/Blackpistol+Barbershop/@37.9579717,23.7231442,17z/data=!3m1!4b1!4m6!3m5!1s0x14a1bd46f04b2e43:0xb257c6073028aa72!8m2!3d37.9579675!4d23.7257191!16s%2Fg%2F11fpq6rwzb?entry=ttu
 LinkBehaviour_D5344A96_C159_F473_41E0_D21C330BFBFE.source = https://www.google.com/maps/place/Blackpistol+Barbershop/@37.9579717,23.7231442,17z/data=!3m1!4b1!4m6!3m5!1s0x14a1bd46f04b2e43:0xb257c6073028aa72!8m2!3d37.9579675!4d23.7257191!16s%2Fg%2F11fpq6rwzb?entry=ttu
-LinkBehaviour_87580B10_9563_F738_41C5_12A878583D01.source = https://www.google.com/maps/place/Blackpistol+Barbershop/@37.9579717,23.7231442,17z/data=!3m1!4b1!4m6!3m5!1s0x14a1bd46f04b2e43:0xb257c6073028aa72!8m2!3d37.9579675!4d23.7257191!16s%2Fg%2F11fpq6rwzb?entry=ttu
+LinkBehaviour_DA9C2355_D457_2C5B_41B0_DBEAB509B63F.source = https://www.instagram.com/blackpistol.barbers/
 LinkBehaviour_D5351A94_C159_F477_41DA_77720F6D7528.source = https://www.instagram.com/blackpistol.barbers/
-LinkBehaviour_875FDB0F_9563_F727_41CA_BC9F367895E8.source = https://www.instagram.com/blackpistol.barbers/
 
 ## Media
 
@@ -280,28 +280,28 @@ album_87BA7B7F_AF7B_EED6_41D1_DBB5F5BCDA20_7.label = photo_2024-05-25_16-04-36
 album_87BA7B7F_AF7B_EED6_41D1_DBB5F5BCDA20_8.label = photo_2024-05-25_16-04-41
 
 ### Video
-videolevel_C06D00D2_D3C5_CDC9_41E7_02AEE72D3032.url = media/video_802928BF_AFD4_AA55_41DE_7F4040C56C7D_en.mp4
-videolevel_C06D00D2_D3C5_CDC9_41E7_02AEE72D3032.posterURL = media/video_802928BF_AFD4_AA55_41DE_7F4040C56C7D_poster_en.jpg
-videolevel_C2D8BDB7_D3C4_D7B7_41C4_52658A32BE92.url = media/video_887F3BDC_AF5C_EDDB_41BC_6B40D630B705_en.mp4
-videolevel_C2D8BDB7_D3C4_D7B7_41C4_52658A32BE92.posterURL = media/video_887F3BDC_AF5C_EDDB_41BC_6B40D630B705_poster_en.jpg
-videolevel_C2D41C0F_D3C4_D457_41C3_3911A7985983.url = media/video_888E5B2E_AF5C_AE77_41E4_5D52AA727653_en.mp4
-videolevel_C2D41C0F_D3C4_D457_41C3_3911A7985983.posterURL = media/video_888E5B2E_AF5C_AE77_41E4_5D52AA727653_poster_en.jpg
-videolevel_C0609F2A_D3C5_D459_41C4_BBDEC4218488.url = media/video_8A430A25_AFD4_AE6A_41C6_1D048E336F1A_en.mp4
-videolevel_C0609F2A_D3C5_D459_41C4_BBDEC4218488.posterURL = media/video_8A430A25_AFD4_AE6A_41C6_1D048E336F1A_poster_en.jpg
-videolevel_C74877D6_D3C4_D3C9_41E1_25EE1DE7746A.url = media/video_9C683F5D_AFB5_A6D5_41DA_58B8C621D6F1_en.mp4
-videolevel_C74877D6_D3C4_D3C9_41E1_25EE1DE7746A.posterURL = media/video_9C683F5D_AFB5_A6D5_41DA_58B8C621D6F1_poster_en.jpg
+videolevel_C7A885E7_D454_F447_41E1_4E3F916AF003.url = media/video_802928BF_AFD4_AA55_41DE_7F4040C56C7D_en.mp4
+videolevel_C7A885E7_D454_F447_41E1_4E3F916AF003.posterURL = media/video_802928BF_AFD4_AA55_41DE_7F4040C56C7D_poster_en.jpg
+videolevel_C05466C1_D454_F4BB_41DE_0E4E61DD3655.url = media/video_887F3BDC_AF5C_EDDB_41BC_6B40D630B705_en.mp4
+videolevel_C05466C1_D454_F4BB_41DE_0E4E61DD3655.posterURL = media/video_887F3BDC_AF5C_EDDB_41BC_6B40D630B705_poster_en.jpg
+videolevel_C7A9C675_D454_F45B_419A_BEC311DA5146.url = media/video_888E5B2E_AF5C_AE77_41E4_5D52AA727653_en.mp4
+videolevel_C7A9C675_D454_F45B_419A_BEC311DA5146.posterURL = media/video_888E5B2E_AF5C_AE77_41E4_5D52AA727653_poster_en.jpg
+videolevel_C7AB959B_D454_F4CE_41E6_5B21BF0B4C0A.url = media/video_8A430A25_AFD4_AE6A_41C6_1D048E336F1A_en.mp4
+videolevel_C7AB959B_D454_F4CE_41E6_5B21BF0B4C0A.posterURL = media/video_8A430A25_AFD4_AE6A_41C6_1D048E336F1A_poster_en.jpg
+videolevel_C7A9062F_D454_F7C7_41CF_8AB57C01C813.url = media/video_9C683F5D_AFB5_A6D5_41DA_58B8C621D6F1_en.mp4
+videolevel_C7A9062F_D454_F7C7_41CF_8AB57C01C813.posterURL = media/video_9C683F5D_AFB5_A6D5_41DA_58B8C621D6F1_poster_en.jpg
 
 ### Video Subtitles
 
 ## Popup
 
 ### Body
-htmlText_D5CB4A9D_C159_F476_41DA_4D4506132416.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:23.999999999999996px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:24px;font-family:'Arial Black', Gadget, sans-serif;">Black Pistol is a barbershop based close to the centre of Athens in a traditional neighbourhood friendly to everyone and so are we! Feel free to come by anytime to take care any of your needs! </SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:23.999999999999996px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:24px;font-family:'Arial Black', Gadget, sans-serif;">Crispy Clean Cuts All Day!</SPAN></SPAN></DIV></div>
 htmlText_878637AF_AF4D_E676_41DE_66824D0A072B.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:23.999999999999996px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:24px;font-family:'Arial Black', Gadget, sans-serif;">Black Pistol is a barbershop based close to the centre of Athens in a traditional neighbourhood friendly to everyone and so are we! Feel free to come by anytime to take care any of your needs! </SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:23.999999999999996px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:24px;font-family:'Arial Black', Gadget, sans-serif;">Crispy Clean Cuts All Day!</SPAN></SPAN></DIV></div>
+htmlText_D5CB4A9D_C159_F476_41DA_4D4506132416.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:23.999999999999996px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:24px;font-family:'Arial Black', Gadget, sans-serif;">Black Pistol is a barbershop based close to the centre of Athens in a traditional neighbourhood friendly to everyone and so are we! Feel free to come by anytime to take care any of your needs! </SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:23.999999999999996px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:24px;font-family:'Arial Black', Gadget, sans-serif;">Crispy Clean Cuts All Day!</SPAN></SPAN></DIV></div>
 
 ### Title
-window_D5CB1A9C_C159_F476_41DD_5FE6CDCD0B40.title = Who are we?
 window_878667AF_AF4D_E676_41C4_3B5A5CC37B1C.title = Who are we?
+window_D5CB1A9C_C159_F476_41DD_5FE6CDCD0B40.title = Who are we?
 
 ## Skin
 
