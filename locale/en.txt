@@ -3,14 +3,14 @@
 ## Action
 
 ### URL
-PopupWebFrameBehaviour_D5CA5AA0_C159_F44E_41E4_D091E4469E0A.url = https://blackpistol.setmore.com/
 PopupWebFrameBehaviour_8AB66610_AF54_E62A_41A1_C54879D56293.url = https://blackpistol.setmore.com/
+PopupWebFrameBehaviour_D5CA5AA0_C159_F44E_41E4_D091E4469E0A.url = https://blackpistol.setmore.com/
 PopupWebFrameBehaviour_9A855F67_B0BC_66F6_41D5_3BA1AA2FEF67.url = https://blackpistol.setmore.com/bookappointment
 PopupWebFrameBehaviour_8A4AC221_AF7C_DE6A_41D9_A5348516C2B8.url = https://blackpistol.setmore.com/bookappointment
 PopupWebFrameBehaviour_89E83427_AF7C_BA76_41C3_7FD258A23ACE.url = https://blackpistol.setmore.com/bookappointment
 PopupWebFrameBehaviour_9B5B795C_B0BC_AADB_41B3_F547B1A8C1A0.url = https://blackpistol.setmore.com/bookappointment
-LinkBehaviour_D5CB4A99_C159_F47E_41E3_C05673D50908.source = https://hermesview.com/
 LinkBehaviour_87584B10_9563_F738_41D6_8DF69585665C.source = https://hermesview.com/
+LinkBehaviour_D5CB4A99_C159_F47E_41E3_C05673D50908.source = https://hermesview.com/
 
 ## Media
 
@@ -276,28 +276,28 @@ album_87BA7B7F_AF7B_EED6_41D1_DBB5F5BCDA20_7.label = photo_2024-05-25_16-04-36
 album_87BA7B7F_AF7B_EED6_41D1_DBB5F5BCDA20_8.label = photo_2024-05-25_16-04-41
 
 ### Video
-videolevel_F1EFB75D_E580_8625_41BC_ECBA460156A7.url = media/video_802928BF_AFD4_AA55_41DE_7F4040C56C7D_en.mp4
-videolevel_F1EFB75D_E580_8625_41BC_ECBA460156A7.posterURL = media/video_802928BF_AFD4_AA55_41DE_7F4040C56C7D_poster_en.jpg
-videolevel_F1E3F82F_E580_8A65_41EC_907F7A482D83.url = media/video_887F3BDC_AF5C_EDDB_41BC_6B40D630B705_en.mp4
-videolevel_F1E3F82F_E580_8A65_41EC_907F7A482D83.posterURL = media/video_887F3BDC_AF5C_EDDB_41BC_6B40D630B705_poster_en.jpg
-videolevel_F1E127EA_E580_85EF_41E2_792ED9294E54.url = media/video_888E5B2E_AF5C_AE77_41E4_5D52AA727653_en.mp4
-videolevel_F1E127EA_E580_85EF_41E2_792ED9294E54.posterURL = media/video_888E5B2E_AF5C_AE77_41E4_5D52AA727653_poster_en.jpg
-videolevel_F1EE8718_E580_862B_41D0_AABA060C4249.url = media/video_8A430A25_AFD4_AE6A_41C6_1D048E336F1A_en.mp4
-videolevel_F1EE8718_E580_862B_41D0_AABA060C4249.posterURL = media/video_8A430A25_AFD4_AE6A_41C6_1D048E336F1A_poster_en.jpg
-videolevel_F1E0F7A4_E580_861B_41E9_F8A6A8B56D5D.url = media/video_9C683F5D_AFB5_A6D5_41DA_58B8C621D6F1_en.mp4
-videolevel_F1E0F7A4_E580_861B_41E9_F8A6A8B56D5D.posterURL = media/video_9C683F5D_AFB5_A6D5_41DA_58B8C621D6F1_poster_en.jpg
+videolevel_FC024878_E580_8AEC_41CB_5EBA1D474F66.url = media/video_802928BF_AFD4_AA55_41DE_7F4040C56C7D_en.mp4
+videolevel_FC024878_E580_8AEC_41CB_5EBA1D474F66.posterURL = media/video_802928BF_AFD4_AA55_41DE_7F4040C56C7D_poster_en.jpg
+videolevel_FC0A9949_E580_8A2D_41DD_3BF96E05A490.url = media/video_887F3BDC_AF5C_EDDB_41BC_6B40D630B705_en.mp4
+videolevel_FC0A9949_E580_8A2D_41DD_3BF96E05A490.posterURL = media/video_887F3BDC_AF5C_EDDB_41BC_6B40D630B705_poster_en.jpg
+videolevel_FC0DE902_E580_8A1C_41D0_AAA81AB120BD.url = media/video_888E5B2E_AF5C_AE77_41E4_5D52AA727653_en.mp4
+videolevel_FC0DE902_E580_8A1C_41D0_AAA81AB120BD.posterURL = media/video_888E5B2E_AF5C_AE77_41E4_5D52AA727653_poster_en.jpg
+videolevel_FC05B82D_E580_8A64_41BE_A273B7B27EC3.url = media/video_8A430A25_AFD4_AE6A_41C6_1D048E336F1A_en.mp4
+videolevel_FC05B82D_E580_8A64_41BE_A273B7B27EC3.posterURL = media/video_8A430A25_AFD4_AE6A_41C6_1D048E336F1A_poster_en.jpg
+videolevel_FC00F8BC_E580_8A64_41E7_92D089F4476C.url = media/video_9C683F5D_AFB5_A6D5_41DA_58B8C621D6F1_en.mp4
+videolevel_FC00F8BC_E580_8A64_41E7_92D089F4476C.posterURL = media/video_9C683F5D_AFB5_A6D5_41DA_58B8C621D6F1_poster_en.jpg
 
 ### Video Subtitles
 
 ## Popup
 
 ### Body
-htmlText_878637AF_AF4D_E676_41DE_66824D0A072B.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:23.999999999999996px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:24px;font-family:'Arial Black', Gadget, sans-serif;">Black Pistol is a barbershop based close to the centre of Athens in a traditional neighbourhood friendly to everyone and so are we! Feel free to come by anytime to take care any of your needs! </SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:23.999999999999996px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:24px;font-family:'Arial Black', Gadget, sans-serif;">Crispy Clean Cuts All Day!</SPAN></SPAN></DIV></div>
 htmlText_D5CB4A9D_C159_F476_41DA_4D4506132416.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:23.999999999999996px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:24px;font-family:'Arial Black', Gadget, sans-serif;">Black Pistol is a barbershop based close to the centre of Athens in a traditional neighbourhood friendly to everyone and so are we! Feel free to come by anytime to take care any of your needs! </SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:23.999999999999996px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:24px;font-family:'Arial Black', Gadget, sans-serif;">Crispy Clean Cuts All Day!</SPAN></SPAN></DIV></div>
+htmlText_878637AF_AF4D_E676_41DE_66824D0A072B.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:23.999999999999996px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:24px;font-family:'Arial Black', Gadget, sans-serif;">Black Pistol is a barbershop based close to the centre of Athens in a traditional neighbourhood friendly to everyone and so are we! Feel free to come by anytime to take care any of your needs! </SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:23.999999999999996px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:24px;font-family:'Arial Black', Gadget, sans-serif;">Crispy Clean Cuts All Day!</SPAN></SPAN></DIV></div>
 
 ### Title
-window_878667AF_AF4D_E676_41C4_3B5A5CC37B1C.title = Who are we?
 window_D5CB1A9C_C159_F476_41DD_5FE6CDCD0B40.title = Who are we?
+window_878667AF_AF4D_E676_41C4_3B5A5CC37B1C.title = Who are we?
 
 ## Skin
 
@@ -316,8 +316,8 @@ Image_875F5B0F_9563_F728_41CC_7BAC4A5A018B.url = skin/Image_875F5B0F_9563_F728_4
 Image_875F5B0F_9563_F728_41CC_7BAC4A5A018B_mobile.url = skin/Image_875F5B0F_9563_F728_41CC_7BAC4A5A018B_mobile_en.png
 
 ### Multiline Text
-HTMLText_87586B10_9563_F738_4174_A81AAF303110.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:16px;font-family:'Oswald Regular';"><B><I><U>Πληροφορίες Επικοινωνίας</U></I></B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:13.999999999999998px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald Regular';"><I>Τηλέφωνο: </I></SPAN><SPAN STYLE="color:#f3a22e;"><A HREF="tel:+302114005151" TARGET="_top" STYLE="text-decoration:none; color:inherit;"><SPAN STYLE="font-size:14px;font-family:'Oswald Regular';"><I>+30 2114005151</I></SPAN></A></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:13.999999999999998px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald Regular';"><I>Email: leonfkn21@hotmail.com</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:13.999999999999998px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald Regular';"><I>Διεύθυνση: Κασομούλη 32, Αθήνα</I></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:14px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p></div>
-HTMLText_87586B10_9563_F738_4174_A81AAF303110_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:8px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:8px;font-family:'Oswald Regular';"><B><I><U>Πληροφορίες Επικοινωνίας</U></I></B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:6.999999999999999px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:7px;font-family:'Oswald Regular';"><I>Τηλέφωνο: </I></SPAN><SPAN STYLE="color:#f3a22e;"><A HREF="tel:+302114005151" TARGET="_blank" STYLE="text-decoration:none; color:inherit;"><SPAN STYLE="font-size:7px;font-family:'Oswald Regular';"><I>+30 2114005151</I></SPAN></A></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:6.999999999999999px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:7px;font-family:'Oswald Regular';"><I>Email: leonfkn21@hotmail.com</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:6.999999999999999px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:7px;font-family:'Oswald Regular';"><I>Διεύθυνση: Κασομούλη 32, Αθήνα</I></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:7px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:6px;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+HTMLText_87586B10_9563_F738_4174_A81AAF303110.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:16px;font-family:'Oswald Regular';"><B><I><U>Πληροφορίες Επικοινωνίας</U></I></B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:13.999999999999998px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald Regular';"><I>Τηλέφωνο: +30 2114005151</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:13.999999999999998px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald Regular';"><I>Email: leonfkn21@hotmail.com</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:13.999999999999998px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald Regular';"><I>Διεύθυνση: Κασομούλη 32, Αθήνα</I></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:14px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+HTMLText_87586B10_9563_F738_4174_A81AAF303110_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:8px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:8px;font-family:'Oswald Regular';"><B><I><U>Πληροφορίες Επικοινωνίας</U></I></B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:6.999999999999999px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:7px;font-family:'Oswald Regular';"><I>Τηλέφωνο: +30 2114005151</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:6.999999999999999px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:7px;font-family:'Oswald Regular';"><I>Email: leonfkn21@hotmail.com</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:6.999999999999999px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:7px;font-family:'Oswald Regular';"><I>Διεύθυνση: Κασομούλη 32, Αθήνα</I></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:7px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:6px;font-family:Arial, Helvetica, sans-serif;"/></p></div>
 
 ## Tour
 
