@@ -3,14 +3,14 @@
 ## Action
 
 ### URL
-PopupWebFrameBehaviour_8AB66610_AF54_E62A_41A1_C54879D56293.url = https://blackpistol.setmore.com/
 PopupWebFrameBehaviour_D5CA5AA0_C159_F44E_41E4_D091E4469E0A.url = https://blackpistol.setmore.com/
+PopupWebFrameBehaviour_8AB66610_AF54_E62A_41A1_C54879D56293.url = https://blackpistol.setmore.com/
 PopupWebFrameBehaviour_9A855F67_B0BC_66F6_41D5_3BA1AA2FEF67.url = https://blackpistol.setmore.com/bookappointment
 PopupWebFrameBehaviour_8A4AC221_AF7C_DE6A_41D9_A5348516C2B8.url = https://blackpistol.setmore.com/bookappointment
 PopupWebFrameBehaviour_89E83427_AF7C_BA76_41C3_7FD258A23ACE.url = https://blackpistol.setmore.com/bookappointment
 PopupWebFrameBehaviour_9B5B795C_B0BC_AADB_41B3_F547B1A8C1A0.url = https://blackpistol.setmore.com/bookappointment
-LinkBehaviour_87584B10_9563_F738_41D6_8DF69585665C.source = https://hermesview.com/
 LinkBehaviour_D5CB4A99_C159_F47E_41E3_C05673D50908.source = https://hermesview.com/
+LinkBehaviour_87584B10_9563_F738_41D6_8DF69585665C.source = https://hermesview.com/
 
 ## Media
 
@@ -276,28 +276,28 @@ album_87BA7B7F_AF7B_EED6_41D1_DBB5F5BCDA20_7.label = photo_2024-05-25_16-04-36
 album_87BA7B7F_AF7B_EED6_41D1_DBB5F5BCDA20_8.label = photo_2024-05-25_16-04-41
 
 ### Video
-videolevel_FC024878_E580_8AEC_41CB_5EBA1D474F66.url = media/video_802928BF_AFD4_AA55_41DE_7F4040C56C7D_en.mp4
-videolevel_FC024878_E580_8AEC_41CB_5EBA1D474F66.posterURL = media/video_802928BF_AFD4_AA55_41DE_7F4040C56C7D_poster_en.jpg
-videolevel_FC0A9949_E580_8A2D_41DD_3BF96E05A490.url = media/video_887F3BDC_AF5C_EDDB_41BC_6B40D630B705_en.mp4
-videolevel_FC0A9949_E580_8A2D_41DD_3BF96E05A490.posterURL = media/video_887F3BDC_AF5C_EDDB_41BC_6B40D630B705_poster_en.jpg
-videolevel_FC0DE902_E580_8A1C_41D0_AAA81AB120BD.url = media/video_888E5B2E_AF5C_AE77_41E4_5D52AA727653_en.mp4
-videolevel_FC0DE902_E580_8A1C_41D0_AAA81AB120BD.posterURL = media/video_888E5B2E_AF5C_AE77_41E4_5D52AA727653_poster_en.jpg
-videolevel_FC05B82D_E580_8A64_41BE_A273B7B27EC3.url = media/video_8A430A25_AFD4_AE6A_41C6_1D048E336F1A_en.mp4
-videolevel_FC05B82D_E580_8A64_41BE_A273B7B27EC3.posterURL = media/video_8A430A25_AFD4_AE6A_41C6_1D048E336F1A_poster_en.jpg
-videolevel_FC00F8BC_E580_8A64_41E7_92D089F4476C.url = media/video_9C683F5D_AFB5_A6D5_41DA_58B8C621D6F1_en.mp4
-videolevel_FC00F8BC_E580_8A64_41E7_92D089F4476C.posterURL = media/video_9C683F5D_AFB5_A6D5_41DA_58B8C621D6F1_poster_en.jpg
+videolevel_FBA9F53B_E583_BA6D_41D1_D445D515816D.url = media/video_802928BF_AFD4_AA55_41DE_7F4040C56C7D_en.mp4
+videolevel_FBA9F53B_E583_BA6D_41D1_D445D515816D.posterURL = media/video_802928BF_AFD4_AA55_41DE_7F4040C56C7D_poster_en.jpg
+videolevel_FB54A619_E583_862C_41E7_D76D9B91F721.url = media/video_887F3BDC_AF5C_EDDB_41BC_6B40D630B705_en.mp4
+videolevel_FB54A619_E583_862C_41E7_D76D9B91F721.posterURL = media/video_887F3BDC_AF5C_EDDB_41BC_6B40D630B705_poster_en.jpg
+videolevel_FBAB45C8_E583_BA2C_41DA_3CC88B33EC87.url = media/video_888E5B2E_AF5C_AE77_41E4_5D52AA727653_en.mp4
+videolevel_FBAB45C8_E583_BA2C_41DA_3CC88B33EC87.posterURL = media/video_888E5B2E_AF5C_AE77_41E4_5D52AA727653_poster_en.jpg
+videolevel_FBAF74EE_E583_BBE4_41E1_3951BA8A194F.url = media/video_8A430A25_AFD4_AE6A_41C6_1D048E336F1A_en.mp4
+videolevel_FBAF74EE_E583_BBE4_41E1_3951BA8A194F.posterURL = media/video_8A430A25_AFD4_AE6A_41C6_1D048E336F1A_poster_en.jpg
+videolevel_FBA8B583_E583_BA1D_41D7_76E9E7FC28D1.url = media/video_9C683F5D_AFB5_A6D5_41DA_58B8C621D6F1_en.mp4
+videolevel_FBA8B583_E583_BA1D_41D7_76E9E7FC28D1.posterURL = media/video_9C683F5D_AFB5_A6D5_41DA_58B8C621D6F1_poster_en.jpg
 
 ### Video Subtitles
 
 ## Popup
 
 ### Body
-htmlText_D5CB4A9D_C159_F476_41DA_4D4506132416.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:23.999999999999996px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:24px;font-family:'Arial Black', Gadget, sans-serif;">Black Pistol is a barbershop based close to the centre of Athens in a traditional neighbourhood friendly to everyone and so are we! Feel free to come by anytime to take care any of your needs! </SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:23.999999999999996px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:24px;font-family:'Arial Black', Gadget, sans-serif;">Crispy Clean Cuts All Day!</SPAN></SPAN></DIV></div>
 htmlText_878637AF_AF4D_E676_41DE_66824D0A072B.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:23.999999999999996px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:24px;font-family:'Arial Black', Gadget, sans-serif;">Black Pistol is a barbershop based close to the centre of Athens in a traditional neighbourhood friendly to everyone and so are we! Feel free to come by anytime to take care any of your needs! </SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:23.999999999999996px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:24px;font-family:'Arial Black', Gadget, sans-serif;">Crispy Clean Cuts All Day!</SPAN></SPAN></DIV></div>
+htmlText_D5CB4A9D_C159_F476_41DA_4D4506132416.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:23.999999999999996px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:24px;font-family:'Arial Black', Gadget, sans-serif;">Black Pistol is a barbershop based close to the centre of Athens in a traditional neighbourhood friendly to everyone and so are we! Feel free to come by anytime to take care any of your needs! </SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:23.999999999999996px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:24px;font-family:'Arial Black', Gadget, sans-serif;">Crispy Clean Cuts All Day!</SPAN></SPAN></DIV></div>
 
 ### Title
-window_D5CB1A9C_C159_F476_41DD_5FE6CDCD0B40.title = Who are we?
 window_878667AF_AF4D_E676_41C4_3B5A5CC37B1C.title = Who are we?
+window_D5CB1A9C_C159_F476_41DD_5FE6CDCD0B40.title = Who are we?
 
 ## Skin
 
